@@ -8,5 +8,4 @@ class HelloWorld
              { 
                   System.out.println("Hello, World"); 
                          }
-int hora = calendar.get(Calendar.HOUR_OF_DAY); 
                          } 
